@@ -1,3 +1,4 @@
+# About difference with no_care_stability
 In analysis.py, 
 sorted(origin, key=lambda x:x[0]) executed correctly.
 If input is [[3,1],[1,5],[1,2],[2,3],...], 
