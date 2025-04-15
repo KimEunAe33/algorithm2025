@@ -1,0 +1,13 @@
+File,Size,Type,Mean Time (s),Mean Memory (MB),Correct
+partially_sorted_tuple_1000.json,1000,partially_sorted_tuple,0.003499,0.017723,Yes
+partially_sorted_tuple_10000.json,10000,partially_sorted_tuple,0.05694,0.163185,Yes
+partially_sorted_tuple_100000.json,100000,partially_sorted_tuple,0.855167,1.654694,Yes
+random_tuple_1000.json,1000,random_tuple,0.003358,0.016854,Yes
+random_tuple_10000.json,10000,random_tuple,0.060554,0.161457,Yes
+random_tuple_100000.json,100000,random_tuple,0.928467,1.65461,Yes
+reversed_tuple_1000.json,1000,reversed_tuple,0.003718,0.019543,Yes
+reversed_tuple_10000.json,10000,reversed_tuple,0.036621,0.191177,Yes
+reversed_tuple_100000.json,100000,reversed_tuple,0.514202,1.915184,Yes
+sorted_tuple_1000.json,1000,sorted_tuple,0.002538,0.019543,Yes
+sorted_tuple_10000.json,10000,sorted_tuple,0.03772,0.191177,Yes
+sorted_tuple_100000.json,100000,sorted_tuple,0.503337,1.915184,Yes
