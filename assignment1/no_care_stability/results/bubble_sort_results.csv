@@ -1,7 +1,7 @@
 File,Size,Type,Mean Time (s),Mean Memory (MB),Correct
 partially_sorted_1000.json,1000,partially_sorted,0.026842,0.0,Yes
 partially_sorted_10000.json,10000,partially_sorted,2.826685,0.0,Yes
-partially_sorted_100000.json,100000,partially_sorted,333.474285,0.26171875,Yes
+partially_sorted_100000.json,100000,partially_sorted,333.474285,0.026171875,Yes
 random_1000.json,1000,random,0.04324,0.0,Yes
 random_10000.json,10000,random,4.770229,0.0,Yes
 random_100000.json,100000,random,503.473837,0.0,Yes
