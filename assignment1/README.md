@@ -10,10 +10,27 @@ And 1M dataset files were so big to upload so i zipped them in dataset folder se
 
 # Usage of analysis.py
 By using analysis.py, you can see execution time of each algorithm.
-If you execute 
-"python analysis.py [algorithm_name]"
-like
-"python analysis.py bubble_sort"
+If you execute  
+"python analysis.py [algorithm_name]"  
+like  
+"python analysis.py bubble_sort"  
 then, it will execute that algorithm with all files in datasets. 
+You can use algorithm_name like below  
+
+--------------------
+merge_sort,  
+heap_sort,  
+bubble_sort,  
+insertion_sort,  
+selection_sort,  
+quick_sort,  
+library_sort,  
+tim_sort,  
+cocktail_shaker_sort,  
+comb_sort,  
+tournament_sort,  
+introsort  
+---------------------
+
 Before, using it, be sure to contain only json files in datasets folders. 
 After all execution, the mean results of execution will be saved as csv file.
