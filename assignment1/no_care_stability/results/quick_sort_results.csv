@@ -1,0 +1,13 @@
+File,Size,Type,Mean Time (s),Mean Memory (MB),Correct
+partially_sorted_1000.json,1000,partially_sorted,0.00121,0.0,Yes
+partially_sorted_10000.json,10000,partially_sorted,0.015809,0.0,Yes
+partially_sorted_100000.json,100000,partially_sorted,0.192151,0.0,Yes
+random_1000.json,1000,random,0.001324,0.0,Yes
+random_10000.json,10000,random,0.016231,0.0,Yes
+random_100000.json,100000,random,0.214368,0.0,Yes
+reversed_1000.json,1000,reversed,0.001232,0.0,Yes
+reversed_10000.json,10000,reversed,0.020302,0.0,Yes
+reversed_100000.json,100000,reversed,0.20322,0.0,Yes
+sorted_1000.json,1000,sorted,0.001285,0.0,Yes
+sorted_10000.json,10000,sorted,0.020779,0.0,Yes
+sorted_100000.json,100000,sorted,0.19281,0.0,Yes
