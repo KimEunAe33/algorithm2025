@@ -17,7 +17,6 @@ like
 then, it will execute that algorithm with all files in datasets. 
 You can use algorithm_name like below  
 
---------------------
 merge_sort,  
 heap_sort,  
 bubble_sort,  
@@ -30,7 +29,7 @@ cocktail_shaker_sort,
 comb_sort,  
 tournament_sort,  
 introsort  
----------------------
+
 
 Before, using it, be sure to contain only json files in datasets folders. 
 After all execution, the mean results of execution will be saved as csv file.
